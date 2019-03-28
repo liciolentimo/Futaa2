@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753256094538",
+    "firebase_url": "https://futaa2.firebaseio.com",
+    "project_id": "futaa2",
+    "storage_bucket": "futaa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753256094538:android:4307cf0959c76908",
+        "android_client_info": {
+          "package_name": "com.lentimosystems.licio.futaa2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753256094538-if213qlh52fie1fjjet4mglnrtlo77je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lentimosystems.licio.futaa2",
+            "certificate_hash": "16f2884f8bbe02b94f0d44f04843d5e028428d7d"
+          }
+        },
+        {
+          "client_id": "753256094538-d5r5c4rv0alde5ak2ftkdaqt1hemg84g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTKEVl5cbqSP6VJP5sNDY_WbptESWDhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753256094538-d5r5c4rv0alde5ak2ftkdaqt1hemg84g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

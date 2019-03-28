@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryTransparent"
+    tools:context=".activities.PlayerActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/player_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:focusableInTouchMode="true"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:titleTextAppearance="@style/MineCustomToolbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <include
+        app:layout_constraintTop_toBottomOf="@+id/player_toolbar"
+        android:id="@+id/card_player_error"
+        layout="@layout/card_error"
+        android:visibility="gone"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/player_list"
+        android:layout_width="match_parent"
+        android:layout_height="515dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/player_toolbar" />
+
+
+</LinearLayout>

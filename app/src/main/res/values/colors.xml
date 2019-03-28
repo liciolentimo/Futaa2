@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4caf50</color>
+    <color name="colorPrimaryTransparent">#dcf8c6</color>
+    <color name="colorTransparent">#ece5dd</color>
+    <color name="colorPrimaryDark">#558b2f</color>
+    <color name="colorAccent">#fdd835</color>
+    <color name="primary_text">#000e00</color>
+    <color name="secondary_text">#325c31</color>
+    <color name="icons">#ffffff</color>
+    <color name="activity_background">#fcfcfc</color>
+    <color name="card_live_scores_red_match_time_text_color">#f44336</color>
+    <color name="card_live_scores_yellow_match_time_text_color">#fbc02d</color>
+    <color name="card_live_scores_green_match_time_text_color">#8bc34a</color>
+</resources>

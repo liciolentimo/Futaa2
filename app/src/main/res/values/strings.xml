@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Futaa</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_scores">LiveScores</string>
+    <string name="title_leagues">Leagues</string>
+    <string name="title_news">News</string>
+
+    <string name="league_badge">league logo</string>
+    <string name="news_image">News image</string>
+    <string name="headlines">Headlines</string>
+    <string name="description">description</string>
+    <string name="title_activity_team">TeamActivity</string>
+    <string name="title_home">Standings</string>
+    <string name="title_dashboard">Results</string>
+    <string name="title_notifications">Next Events</string>
+    <string name="team_badge">Team badge</string>
+    <string name="team_jersey">Team jersey</string>
+    <string name="player_cutout">Player Cutout</string>
+    <string name="separator">-</string>
+    <string name="home_team_badge">Home team badge</string>
+    <string name="away_team_badge">Away team badge</string>
+    <string name="home_team_jersey">Home team jersey</string>
+    <string name="away_team_jersey">Away team jersey</string>
+    <string name="search">Search</string>
+    <string name="teams_Search">Search Soccer Teams</string>
+    <string name="no_network">No Internet Connection</string>
+    <string name="error_jason">Error Doesn\'t Contain Data</string>
+    <string name="teamlist">Team List</string>
+
+</resources>
